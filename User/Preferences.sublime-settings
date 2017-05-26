@@ -31,6 +31,7 @@
 		"Theme - Cobalt2",
 		"Vintage"
 	],
+    "file_exclude_patterns": ["~*.xlsx"],
 	"lp_use_folder_icon2": true,
 	"lp_use_vs": true,
 	"lp_use_vs_medium_wide_tabs": true,
