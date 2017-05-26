@@ -1,6 +1,6 @@
 # README
-Personal setup for SublimeText.
-Each branch corresponds to a specific work environment.
+Personal setup for SublimeText.  
 
-Ex: Laptop A at work => branch "work-A"
-Ex: Laptop B at home => branch "home-B"
+Each branch corresponds to a specific work environment.
+- Ex: Branch "work-A": machine A at work,
+- Ex: Branch "home-B": machine B at home.
