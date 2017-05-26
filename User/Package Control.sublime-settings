@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"debug": true,
+	"ignore_vcs_packages": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Handlebars",
+		"HTMLBeautify",
+		"Markdown Extended",
+		"Monokai Extended",
+		"Package Control",
+		"PackageResourceViewer",
+		"PowerShell",
+		"Schemr",
+		"ScopeAlways",
+		"Side-by-Side Settings",
+		"Theme - Soda",
+		"Themr",
+		"View In Browser"
+	],
+	"remove_orphaned": false
+}
