@@ -1,0 +1,19 @@
+{
+	"alternate_scheme": "Packages/ExportHtml/themes/Print-Color.tmTheme",
+	"alternate_font_face": "Consolas",
+	"alternate_font_size": 8,
+	// "export_css": "Packages/ExportHtml/css/export.css",
+    "html_panel": [
+        // Browser print color (selections and multi-selections allowed)
+        {
+            "Print - Grayscale": {
+                "numbers": true,
+                "wrap": 900,
+                // "browser_print": true,
+                "multi_select": true,
+                "color_scheme": "Packages/ExportHtml/ColorSchemes/Print-Grayscale.tmTheme",
+                "style_gutter": true
+            }
+        }
+    ]
+}
