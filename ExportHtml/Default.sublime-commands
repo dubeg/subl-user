@@ -1,0 +1,7 @@
+[
+    // Export to HTML
+    {
+        "caption": "Export to HTML",
+        "command": "export_html_panel"
+    },
+]

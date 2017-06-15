@@ -7,12 +7,14 @@
 	],
 	"installed_packages":
 	[
+		"4GL",
 		"AutoHotkey",
 		"Better CoffeeScript",
 		"Compare Side-By-Side",
 		"ExportHtml",
 		"Handlebars",
-		"HTMLBeautify",
+		"HTML-CSS-JS Prettify",
+		"Indent XML",
 		"Monokai Extended",
 		"Package Control",
 		"PackageResourceViewer",
@@ -20,8 +22,10 @@
 		"Schemr",
 		"ScopeAlways",
 		"Side-by-Side Settings",
+		"Theme - Monokai Pro",
 		"Theme - Soda",
 		"Themr",
+		"VBDotNet",
 		"View In Browser"
 	],
 	"remove_orphaned": false

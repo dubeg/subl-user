@@ -2,13 +2,13 @@
 	"always_show_minimap_viewport": true,
 	"auto_indent": true,
 	"auto_match_enabled": false,
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"color_scheme": "Packages/Scheme - VSDC/VSDC.tmTheme",
 	"dc_hide_group_icons": true,
 	"dc_hide_scrollbars": false,
 	"dc_use_folder_icon1": true,
 	"dc_use_folding_icon1": true,
 	"dc_use_group_icon1": true,
-	"dc_use_scrollbars_style2": true,
+	"dc_use_scrollbars_style3": true,
 	"dc_use_sidebar_active_row_style1": true,
 	"dc_use_sidebar_style1": true,
 	"dc_use_small_panel": true,
@@ -24,6 +24,7 @@
 		"~*.xlsx",
 		"desktop.ini"
 	],
+	"font.face": "Consolas",
 	"font_size": 10,
 	"hot_exit": false,
 	"ignored_packages":
@@ -42,5 +43,5 @@
 	"show_encoding": true,
 	"show_full_path": false,
 	"smart_indent": true,
-	"theme": "Adaptive.sublime-theme"
+	"theme": "DC_3.sublime-theme"
 }
