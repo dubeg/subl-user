@@ -1,10 +1,15 @@
 FormatSql/*
-Scheme - VSDC/*
-Theme - DC/*
-Theme - LP/*
-Theme - VS/*
+Scheme - */*
+Theme - */*
 Utils/*
+User/Theme -*/*
 User/Package Control.cache/*
 User/Projects/*
 User/Package Control.last-run
 User/Widget*.sublime-settings
+User/SBSCompare*
+HTML-CSS-JS Prettify/*
+python-*/*
+mdpopups/*
+markupsafe/*
+pygments/*
