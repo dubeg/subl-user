@@ -2,6 +2,6 @@
 	"extensions":
 	[
 	],
-	"word_wrap": true,
+	"word_wrap": false,
 	"wrap_width": 120
 }

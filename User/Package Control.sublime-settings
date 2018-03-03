@@ -15,7 +15,10 @@
 		"Handlebars",
 		"HTML-CSS-JS Prettify",
 		"Indent XML",
+		"INI",
+		"Markdown Table Formatter",
 		"Monokai Extended",
+		"OpenEdge ABL",
 		"Package Control",
 		"PackageResourceViewer",
 		"PowerShell",
@@ -25,8 +28,10 @@
 		"Theme - Monokai Pro",
 		"Theme - Soda",
 		"Themr",
+		"ToolRunner",
 		"VBDotNet",
-		"View In Browser"
+		"View In Browser",
+		"xml2json"
 	],
 	"remove_orphaned": false
 }

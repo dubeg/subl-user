@@ -1,5 +1,17 @@
 [
     {
+        "caption": "Rename File",
+        "command": "rename_file",
+    },
+    {
+        "caption": "Arithmetic",
+        "command": "arithmetic",
+    },
+    {
+        "caption": "View Package File",
+        "command": "view_resource",
+    },
+    {
         "caption": "Word Wrap: Toggle",
         "command": "toggle_setting",
         "args": {"setting": "word_wrap"}

@@ -1,9 +1,9 @@
 {
 	"nt": {
 		"win32": {
-			"firefoxdev": "C:\\Program Files (x86)\\Firefox Developer Edition\\firefox.exe -new-tab",
+			"chrome": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
 		}
 	},
 
-	"browser": "firefoxdev"
+	"browser": "chrome"
 }
