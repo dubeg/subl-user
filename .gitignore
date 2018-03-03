@@ -3,5 +3,10 @@
 # But not these files...
 !.gitignore
 !Default/*
+!Theme - Default/*
 !User/*.sublime-settings
 !User/*.sublime-keymap
+!ExportHtml/*
+!FormatCsvMd/*
+!Markdown/*
+!SQL/*
